@@ -1,0 +1,62 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap www.shopify.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-23 22:02 UTC
+Nmap scan report for www.shopify.ca (104.16.255.71)
+Host is up (0.0012s latency).
+Other addresses for www.shopify.ca (not scanned): 104.16.254.71
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap done: 1 IP address (1 host up) scanned in 15.81 seconds
+
+
+
+
+
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 80 www.google.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-23 22:03 UTC
+Nmap scan report for www.google.com (172.217.164.228)
+Host is up (0.0014s latency).
+Other addresses for www.google.com (not scanned): 2607:f8b0:400b:808::2004
+rDNS record for 172.217.164.228: yyz12s05-in-f4.1e100.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 11.05 seconds
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#
+
+
+
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 80-500 www.google.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-23 22:05 UTC
+Nmap scan report for www.google.com (172.217.1.4)
+Host is up (0.0010s latency).
+Other addresses for www.google.com (not scanned): 2607:f8b0:400b:809::2004
+rDNS record for 172.217.1.4: yyz10s14-in-f4.1e100.net
+Not shown: 419 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 14.00 seconds
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#
+
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F www.amazon.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-23 22:06 UTC
+Nmap scan report for www.amazon.com (13.33.165.10)
+Host is up (0.0012s latency).
+rDNS record for 13.33.165.10: server-13-33-165-10.yto50.r.cloudfront.net
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 12.86 seconds
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#

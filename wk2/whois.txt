@@ -1,0 +1,63 @@
+Domain Name: GOOGLE.COM
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-09-09T15:39:04Z
+Creation Date: 1997-09-15T04:00:00Z
+Registry Expiry Date: 2028-09-14T04:00:00Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+
+
+Domain Name: shopify.ca Registry Domain ID: D370207-CIRA Registrar WHOIS Server: whois.ca.fury.ca Registrar URL: Markmonitor.com Updated Date: 2020-05-03T15:42:49Z Creation Date: 2006-02-20T21:35:17Z Registry Expiry Date: 2022-02-20T05:00:00Z Registrar: MarkMonitor International Canada Ltd. Registrar IANA ID: not applicable Registrar Abuse Contact Email: Registrar Abuse Contact Phone: Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited Registry Registrant ID: 75873925-CIRA Registrant Name: Shopify Inc. Registrant Organization: Registrant Street: 150 Elgin Street, 8th Floor Registrant City: Ottawa Registrant State/Province: ON Registrant Postal Code: K2P1L4 Registrant Country: CA Registrant Phone: +1.6132412828 Registrant Phone Ext: Registrant Fax: Registrant Fax Ext: Registrant Email: domains@shopify.com Registry Admin ID: 75874262-CIRA Admin Name: Dale Neufeld Admin Organization: Shopify Inc. Admin Street: 150 Elgin Street, 8th 
+
+
+ Domain Name: AMAZON.COM
+Registry Domain ID: 281209_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-05-07T20:09:37Z
+Creation Date: 1994-11-01T05:00:00Z
+Registry Expiry Date: 2024-10-31T04:00:00Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+
+
+ Domain Name: APPLE.COM
+Registry Domain ID: 1225976_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: http://cscdbs.com
+Updated Date: 2020-06-04T21:50:03Z
+Creation Date: 1987-02-19T05:00:00Z
+Registry Expiry Date: 2021-02-20T05:00:00Z
+Registrar: CSC Corporate Domains, Inc.
+Registrar IANA ID: 299
+Registrar Abuse Contact Email: domainabuse@cscglobal.com
+Registrar Abuse Contact Phone: 8887802723
+
+
+Domain Name: TWITTER.COM
+Registry Domain ID: 18195971_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: http://cscdbs.com
+Updated Date: 2021-01-17T06:10:16Z
+Creation Date: 2000-01-21T16:28:17Z
+Registry Expiry Date: 2022-01-21T16:28:17Z
+Registrar: CSC Corporate Domains, Inc.
+Registrar IANA ID: 299
+Registrar Abuse Contact Email: domainabuse@cscglobal.com
+Registrar Abuse Contact Phone: 8887802723
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
