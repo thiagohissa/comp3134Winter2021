@@ -1,0 +1,20 @@
+What you see on the browser (the issue)
+Now I'm in the www folder if I'm not mistaken. The issue here is that through the queries I can be jumping from dir to dir and getting all the information inside of it
+
+What sensitive information is given by this page
+Quite a few actually:
+    [1] => ..
+    [2] => backups
+    [3] => cache
+    [4] => crash
+    [5] => lib
+    [6] => local
+    [7] => lock
+    [8] => log
+    [9] => mail
+    [10] => opt
+    [11] => run
+    [12] => snap
+    [13] => spool
+    [14] => tmp
+    [15] => www

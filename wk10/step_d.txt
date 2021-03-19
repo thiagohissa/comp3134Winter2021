@@ -1,0 +1,5 @@
+What you see on the browser(the issue)?
+It's looking for the dir named hello and that dir does not exist
+
+What sensitive information is given by this page?
+It gives the directory structure /var/www/html/ and it also display the piece of code "scandir()"

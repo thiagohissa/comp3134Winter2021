@@ -1,0 +1,1 @@
+I mitigated the issues by checking if the file exists, if it does not I'm just returning a message "File does not exist" rather than letting the program throw an error and expose the dir structure
