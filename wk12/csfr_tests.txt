@@ -1,0 +1,1 @@
+because the session $_POST that we're sending is different than the $_GET from the page, we dont pass the validation test on redirecting.

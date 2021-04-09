@@ -1,0 +1,1 @@
+The issue is that we're not sanitizing and the script being echoed into the page will redirect to directory_traversal_part1.php
